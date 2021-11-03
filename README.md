@@ -1,5 +1,16 @@
-### Hi there 👋
+# Hi ^^ its kingOf0!
 
+Currently learning Python, JavaScript programming languages and android app development.
+![Profile views](https://gpvc.arturio.dev/kingOf0) 
+---
+
+## 💬 Contact Me!
+  
+  
+### Discord: kingOf0!#4055  
+### LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "")
+
+![KingOf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical)
 <!--
 **kingOf0/kingOf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
