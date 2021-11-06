@@ -4,7 +4,6 @@ Currently learning Python, JavaScript programming languages and android app deve
 <div align="center">  
   ![Profile views](https://gpvc.arturio.dev/kingOf0) 
 <div align="left">
----
 
 ## 💬 Contact Me!
   
