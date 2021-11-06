@@ -1,7 +1,7 @@
 # Hi ^^ its kingOf0!
 
 Currently learning Python, JavaScript programming languages and android app development.  
-<div align="center">![Profile views](https://gpvc.arturio.dev/kingOf0)<div align="left">
+  ![Profile views](https://gpvc.arturio.dev/kingOf0)
 
 ## 💬 Contact Me!
   
