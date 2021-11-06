@@ -6,8 +6,8 @@ Currently learning Python, JavaScript programming languages and android app deve
 ## 💬 Contact Me!
   
   
-### Discord: kingOf0!#4055  
-### LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "")
+#### Discord: kingOf0!#4055  
+#### LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "")
 
 ![KingOf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical)
 <!--
