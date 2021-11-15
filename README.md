@@ -19,6 +19,7 @@
  * JavaScript language from EnginDemirog's tutorials.
  * Android Application Development from GDC Turkey tutorials. 
  * JavaFX from www.
+ * Python from www.
 
 ## 💬 Ask me about
 *  Minecraft plugin development with Bukkit / Spigot library.
