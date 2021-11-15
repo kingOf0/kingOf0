@@ -1,7 +1,7 @@
 # Hi ^^ its kingOf0!
  
 
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical"> 
  
  Im a always mad developer. Also Im always hungy. Sometimes hungry for learning new things, learning math or just hungry to food (Döner will be  overpreferred). Sometimes feeling happy 
 </img>
