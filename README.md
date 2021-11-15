@@ -13,7 +13,7 @@ Currently learning Python, JavaScript programming languages and android app deve
 
 ![KingOf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a lot of things. (NPlayer, Teknofest Projects, Minecraft Plugins)
 - 🌱 I’m currently learning JavaScript language, JavaFX and AndroidX Library.
 - 👯 I’m looking to collaborate on koply/nplayer
 - 🤔 I’m looking for help with JavaFX
