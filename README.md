@@ -8,7 +8,7 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
 * LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "") 
 * E-Mail Adress: ibrahimbugra1077@gmail.com
 
-## 🔭 I’m currently working on a lot of things.                               🌱 I’m currently learning
+## 🔭 I’m currently working on a lot of things.               <br><br><br><br>                🌱 I’m currently learning
  * NPlayer                                                          * JavaScript language from EnginDemirog's tutorials.
  * Teknofest Projects                                               * Android Application Development from GDC Turkey tutorials.            
  * Minecraft Plugins                                                * JavaFX from www.          
