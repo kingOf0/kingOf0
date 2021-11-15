@@ -15,13 +15,13 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
  * Learning new languages like JavaScript and Python
  * Learning libraries like AndroidX and JavaFX
 
-<p align="right">text</p>
+<p align="right">
 ## 🌱 I’m currently learning
  * JavaScript language from EnginDemirog's tutorials.
  * Android Application Development from GDC Turkey tutorials. 
  * JavaFX from www.
  * Python from www.  
-
+</p>
 
 ## 💬 Ask me about
 *  Minecraft plugin development with Bukkit / Spigot library.
