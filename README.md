@@ -8,7 +8,7 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
 * LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "") <img align="right" src="https://gpvc.arturio.dev/kingOf0"><img align="right"  src="https://img.shields.io/github/followers/kingOf0" alt="kingOf0" /><img  align="right" src="https://img.shields.io/badge/favourite%20language-kotlin-blue" alt="kingOf0" />
 * E-Mail Adress: ibrahimbugra1077@gmail.com
 
-## 🔭 I’m currently working on a lot of things.                                        
+## 🔭 I’m currently working on 'a lot of things'.                                        
  * Teknofest Projects                                                
  * Minecraft Plugins                                                       
  * Learning new languages like JavaScript and Python                                    
