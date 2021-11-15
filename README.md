@@ -1,7 +1,7 @@
 # Hi ^^ its kingOf0!
  
  
-Im a always mad developer. But sometimes feeling happy. Also I am always hungy. Sometimes hungry for learning new things, learning math or just want to eat food (Döner is overprefferred).
+Im a always mad developer. But sometimes feeling happy. Also I am always hungy. Sometimes hungry for learning new things, learning math or just want to eat food (Döner will be  overpreferred).
 
 ![Profile views](https://gpvc.arturio.dev/kingOf0)
 ![KingOf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical)
