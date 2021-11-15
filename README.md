@@ -20,10 +20,6 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
  * Android Application Development from GDC Turkey tutorials.           
  * JavaFX from www.   
  * Python from www.
- 
-## 💬 Ask me about
-*  Minecraft plugin development with Bukkit / Spigot library.
-*  Android application development with kotlin.
 
 ## 😄 Pronouns
  * Turkish is my primary language.
