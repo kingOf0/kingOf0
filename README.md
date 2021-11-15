@@ -31,3 +31,4 @@ Im a always mad developer. But sometimes feeling happy. Also I am always hungy. 
  * Im also learning japanese.
 
 ## ⚡ Fun fact: its kingOf zero.
+![image](https://user-images.githubusercontent.com/44327892/141816160-943e4242-ba08-42e5-b35f-b401d6619554.png)
