@@ -15,7 +15,7 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
  * Learning new languages like JavaScript and Python
  * Learning libraries like AndroidX and JavaFX
 
-<style>body {text-align: right}</style>
+<p align="right">text</p>
 ## 🌱 I’m currently learning
  * JavaScript language from EnginDemirog's tutorials.
  * Android Application Development from GDC Turkey tutorials. 
