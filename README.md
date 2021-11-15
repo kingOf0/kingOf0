@@ -2,15 +2,13 @@
  
 
 <p align="left"> 
- <img src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical">
-</p>
-<p align="right"> 
  Im a always mad developer. Also Im always hungy. Sometimes hungry for learning new things, learning math or just hungry to food (Döner will be  overpreferred). Sometimes feeling happy specially when i near the person who i love and care.
 </p>
-
+<p align="right"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical">
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/kingOf0)
-![KingOf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical)
 
 ## 📫 How to reach me?
 * Discord: kingOf0!#4055  
