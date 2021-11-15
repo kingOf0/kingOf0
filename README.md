@@ -13,6 +13,11 @@ Currently learning Python, JavaScript programming languages and android app deve
 
 ![KingOf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical)
 
+## 📫 How to reach me?
+* Discord: kingOf0!#4055  
+* LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "") 
+* E-Mail Adress: ibrahimbugra1077@gmail.com
+
 ## 🔭 I’m currently working on a lot of things. 
  * NPlayer
  * Teknofest Projects
@@ -26,11 +31,6 @@ Currently learning Python, JavaScript programming languages and android app deve
 ## 💬 Ask me about
 *  Minecraft plugin development with Bukkit / Spigot library.
 *  Android application development with kotlin.
-
-## 📫 How to reach me?
-* Discord: kingOf0!#4055  
-* LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "") 
-* E-Mail Adress: ibrahimbugra1077@gmail.com
 
 ## 😄 Pronouns
  * Turkish is my primary language.
