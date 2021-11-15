@@ -1,6 +1,6 @@
 # Hi ^^ its kingOf0!              <p align="right"> ![Profile views](https://gpvc.arturio.dev/kingOf0)              </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical"> 
-I am a developer who is always upset. Also, I'm always hungry. Sometimes hungry for learning new things, for math or just for food (Döner will be overpreferred). But even though I'm always sad, sometimes I can feel happy, especially when the person I love and care about is next to me.
+I am a developer who is always upset and hungry. Im hungry to learning new things, solving math or to eating food (Döner will be overpreferred). But even though I'm always sad, sometimes I can be happy, especially when the person I love and care about is next to me.
 </img>
 
 ## 📫 How to reach me?
