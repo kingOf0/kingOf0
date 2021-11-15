@@ -23,9 +23,6 @@ Currently learning Python, JavaScript programming languages and android app deve
  * Android Application Development from GDC Turkey tutorials. 
  * JavaFX from www.
 
-## 👯 I’m looking to collaborate on
-  NPlayer, koply's ad-free youtube player.
-
 ## 💬 Ask me about
 *  Minecraft plugin development with Bukkit / Spigot library.
 *  Android application development with kotlin.
