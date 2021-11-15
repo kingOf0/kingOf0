@@ -12,6 +12,8 @@
  * NPlayer
  * Teknofest Projects
  * Minecraft Plugins
+ * Learning new languages like JavaScript and Python
+ * Learning libraries like AndroidX and JavaFX
 
 ## 🌱 I’m currently learning
  * JavaScript language from EnginDemirog's tutorials.
