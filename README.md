@@ -4,10 +4,6 @@
 Currently learning Python, JavaScript programming languages and android app development.  
 ![Profile views](https://gpvc.arturio.dev/kingOf0)
   
-
-## 💬 Contact Me!
-  
-  
 #### 
 
 
