@@ -1,13 +1,9 @@
-# Hi ^^ its kingOf0!
+# Hi ^^ its kingOf0!              ![Profile views](https://gpvc.arturio.dev/kingOf0)
  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical"> 
- 
  Im a always mad developer. Also Im always hungy. Sometimes hungry for learning new things, learning math or just hungry to food (Döner will be  overpreferred). Sometimes feeling happy 
 </img>
-
-
-![Profile views](https://gpvc.arturio.dev/kingOf0)
 
 ## 📫 How to reach me?
 * Discord: kingOf0!#4055  
