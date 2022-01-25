@@ -1,5 +1,5 @@
 # Hi ^^ its kingOf0!
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical"> 
+<img align="right" src="https://komarev.com/ghpvc/?username=kingOf0"> 
 I am a developer who is always upset and hungry. Im hungry to learning new things, solving math or to eating food (Döner will be overpreferred). But even though I'm always sad, sometimes I can be happy, especially when the person I love and care about is next to me.
 </img>
 
