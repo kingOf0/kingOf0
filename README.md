@@ -6,6 +6,7 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
 ## 📫 Get Contact with me at
 * Discord: kingOf0!#4055  
 * LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "") <img align="right" src="https://komarev.com/ghpvc/?username=kingOf0"><img align="right"  src="https://img.shields.io/github/followers/kingOf0" alt="kingOf0" /><img  align="right" src="https://img.shields.io/badge/favourite%20language-kotlin-blue" alt="kingOf0" />
+* Website: https://kingof0.com/
 * E-Mail Adress: ibrahimbugra1077@gmail.com
 
 ## 🔭 I’m currently working on 'a lot of things'.                                        
