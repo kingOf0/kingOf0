@@ -12,17 +12,7 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
 ## 🔭 I’m currently working on 'a lot of things'.                                        
  * Teknofest Projects
  * Tübitak Projects
- * Minecraft Plugins                                                       
- * Learning new languages like JavaScript and Python                                    
- * Learning libraries like AndroidX and JavaFX                                                          
-
-## 🥅 My 2022 goals are
- * Committing every day!
-
-## 🌱 I’m currently learning
- * Android Application Development from GDC Turkey tutorials.           
- * JavaFX from www.   
- * Python from www.
+ * Minecraft Plugins                                                                 
 
 ## 😄 Pronouns
  * Turkish is my primary language.
