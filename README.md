@@ -1,6 +1,6 @@
 # Hi ^^ it's kingOf0!
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kingOf0&show_icons=true&theme=radical"> 
-I am a developer who is always upset and hungry. I'm hungry to learning new things, solving math or to eating food (Döner will be overpreferred). But even though I'm always sad, sometimes I can be happy, especially when the person I love and care about is next to me.
+I am a developer who is always upset and hungry. I'm hungry to learning new things, solving math or eating food (Döner will be overpreferred). But even though I'm always sad, sometimes I can be happy, especially when the person I love and care about is next to me.
 </img>
 
 ## 📫 Get Contact with me at
@@ -14,10 +14,10 @@ I am a developer who is always upset and hungry. I'm hungry to learning new thin
  * Tübitak Projects
  * Minecraft Plugins                                                                 
 
-## 😄 Pronouns
+## 😄 Speaking
  * Turkish is my primary language.
  * My English level is B2
- * Im also learning japanese.
+ * I'm also learning Japanese.
 
 ## ⚡ Fun fact: its kingOf zero.
 ![image](https://user-images.githubusercontent.com/44327892/141816160-943e4242-ba08-42e5-b35f-b401d6619554.png)
