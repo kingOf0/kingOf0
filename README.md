@@ -7,7 +7,7 @@ I am a developer who is always tired and hungry. I'm hungry to learning new thin
 * Discord: kingOf0
 * LinkedIn: [Ibrahim Demirok](https://www.linkedin.com/in/ibrahim-demirok-39452b223/ "") <img align="right" src="https://komarev.com/ghpvc/?username=kingOf0"><img align="right"  src="https://img.shields.io/github/followers/kingOf0" alt="kingOf0" /><img  align="right" src="https://img.shields.io/badge/favourite%20language-kotlin-blue" alt="kingOf0" />
 * Website: https://kingof0.com/
-* E-Mail Adress: ibrahimbugra1077@gmail.com
+* E-Mail Adress: ibrahim@uzaiteknoloji.com
 
 ## 🔭 I’m currently working on 'a lot of things'.                                        
  * Teknofest Projects
