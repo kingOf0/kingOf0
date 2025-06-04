@@ -1,6 +1,6 @@
 # Hi ^^ it's kingOf0!
 
-I am a developer who is always tired and hungry. I'm hungry to learning new things, solving math or eating food (Döner will be overpreferred). But even though I'm always sad, sometimes I can be happy, especially when the person I love and care about is next to me.
+Welcome! I’m İbrahim B. Demirok, a passionate software engineering and technology enthusiast. Over the years, I’ve actively contributed to exciting projects, including participation in Teknofest's Hyperloop and UAV competitions, as well as leading TÜBİTAK 2209-A and 3501 projects to deliver impactful innovations. My expertise spans software development, electronics, and embedded systems, with hands-on experience using STM32, ESP32 and Arduino. I also have a strong relationship in game development, creating Minecraft plugins since 2018.
 </img>
 
 ## 📫 Get Contact with me at
